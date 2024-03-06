@@ -37,9 +37,10 @@ const App = () => {
             <Experience />
           </div>
         </div>
-        <div className="relative z-0">
+        { /* <div className="relative z-0">
           <Contact />
         </div>
+        */}
       </div>
     </BrowserRouter>
   );
